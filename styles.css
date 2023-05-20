@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto+Slab&display=swap');
+body{
+    background-color: rgb(0, 162, 255);
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'roboto slab'; 
+    padding-bottom: 60px;
+    color: #f2ffe5;
+}
+p{
+    font-size: 25px;
+    font-family: 'poppins';
+    letter-spacing: 0.7px;
+    color: #FBFFDC;
+    margin: 20px;
+}
+ul{
+    font-size: 25px;
+    font-family: 'poppins';
+    letter-spacing: 0.7px;
+    color: #FBFFDC;
+    margin: 20px;
+}
+
+.climate1{
+    margin-left: 950px;
+    margin-top: -350px;
+    position: absolute;
+    width: 555px;
+    height: 333px;
+}
+h2{
+    font-size: 30px;
+    font-family: 'roboto slab'; 
+    color: #f2ffe5;
+    margin: 10px;
+}
+.climate2{
+    margin-left: 755px;
+    margin-top: -310px;
+    position: absolute;
+    width: 750px;
+}
+.climate3{
+    margin-left: 1105px;
+    margin-top: -360px;
+    position: absolute;
+    width: 400px;  
+}
+.climate4{
+    margin-left: 1105px;
+    margin-top: -340px;
+    position: absolute;
+    width: 400px;  
+}
